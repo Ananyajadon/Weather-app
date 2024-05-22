@@ -11,7 +11,7 @@ Welcome to the Weather App! This application is designed to provide current weat
 
 ## Demo
 
-![Weather App Demo](path/to/your/weather-app-demo.gif)
+![Weather App Demo](https://hereweather.netlify.app/)
 
 
 ## Usage
